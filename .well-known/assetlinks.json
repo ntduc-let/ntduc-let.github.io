@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ntduc.baseproject",
+    "sha256_cert_fingerprints":
+    ["68:24:B8:C8:E8:52:12:C6:F1:B2:4A:7A:F9:C7:9C:D4:63:9E:67:CF:32:1A:16:96:6D:EF:CE:53:8F:43:38:E7"]
+  }
+}]
